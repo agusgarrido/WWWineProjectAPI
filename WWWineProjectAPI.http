@@ -1,0 +1,6 @@
+@WWWineProjectAPI_HostAddress = http://localhost:5269
+
+GET {{WWWineProjectAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
